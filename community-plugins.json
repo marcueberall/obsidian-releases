@@ -15526,7 +15526,7 @@
     "repo": "land0r/obsidian-flowchart-plugin"
   },
   {
-    "id": "obsidian-harn-weather",
+    "id": "harn-weather",
     "name": "Hârn Weather Generator",
     "author": "Marc André Ueberall",
     "description": "Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system.",
